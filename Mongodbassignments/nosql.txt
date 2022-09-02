@@ -13,6 +13,7 @@ actors : [
   Brad Pitt
 
   Edward Norton
+akash
 
 ]
 
